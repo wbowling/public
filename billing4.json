@@ -1,5 +1,0 @@
-{
-    "selectors": {
-        ".frag":"<include-fragment src=\"/wbowling/hello/settings\"></include-fragment>"
-    }
-}
