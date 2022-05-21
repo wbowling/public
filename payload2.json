@@ -1,5 +1,6 @@
 {
     "selectors": {
+        "#options_bucket auto-check dd":"<input type='text' name='new_name' value='helloggg' id='rename-field'>",
         "#options_bucket button[type='submit']":"<div id=\"aaa\"><button href='#aaa' id='aaa' type='submit'>Rename (ggg)</button></div>",
         ".part2":"<include-fragment src=\"/wbowling/mathjax-test/issues/6\"></include-fragment>"
     }
