@@ -1,6 +1,6 @@
 {
     "selectors": {
-        "#options_bucket button[type='submit']":"<button href='#aaa' type='submit'>Rename (gg)</button>",
+        "#options_bucket button[type='submit']":"<button href='#aaa' id='aaa' type='submit'>Rename (gg)</button>",
         ".part2":"<include-fragment src=\"/wbowling/mathjax-test/issues/6\"></include-fragment>"
     }
 }
