@@ -1,0 +1,5 @@
+{
+    "selectors": {
+        ".frag":"<include-fragment src=\"/users/1418260/menu\"></include-fragment>"
+    }
+}
