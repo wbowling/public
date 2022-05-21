@@ -1,0 +1,5 @@
+{
+    "selectors": {
+        "#options_bucket button[type='submit']":"<button href='#aaa' type='submit'>Rename (gg)</button>"
+    }
+}
