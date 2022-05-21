@@ -1,0 +1,5 @@
+{
+    "selectors": {
+        ".fish": "ggg<script>alert(document.domain)</script>hhh"
+    }
+}
