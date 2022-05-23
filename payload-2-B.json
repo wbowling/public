@@ -1,0 +1,5 @@
+{
+    "selectors": {
+        ".part1b":"<include-fragment src=\"/wbowling/mathjax-test/issues/10\"></include-fragment>"
+    }
+}

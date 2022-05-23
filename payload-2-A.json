@@ -1,0 +1,5 @@
+{
+    "selectors": {
+        ".part1":"<include-fragment src=\"/settings/ssh/new\"></include-fragment><include-fragment src=\"/wbowling/mathjax-test/issues/9\"></include-fragment>"
+    }
+}

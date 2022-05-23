@@ -1,0 +1,8 @@
+{
+    "selectors": {
+        "#new_key dl:nth-child(2) dd":"<input type='text' name='public_key[title]' value='vakzz' id='public_key_title'>",
+        "#new_key dl:nth-child(3) dd":"<input type='text' name='public_key[key]' value='ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMovXaCQFBT7RMmlO/QuOjXlo1DZRT51ZXW/aA4jGBtG vakzz@wearehackerone.com' id='public_key_key'>",
+        "#new_key .mb-0":"<div id=\"aaa\"><button href='#aaa' id='aaa' type='submit'>Add SSH key (ggg)</button></div>",
+        ".part3":"<include-fragment src=\"/wbowling/mathjax-test/issues/11\"></include-fragment>"
+    }
+}
